@@ -55,7 +55,7 @@ To run or contribute to this project, ensure you have the following:
 - **Development Environment**: Visual Studio 2022 or later.
 - **Languages/Frameworks**: C#, .NET Framework 6.0 or later.
 - **Testing Tools**: NUnit or any compatible testing framework.
-- **Database**: SQL Server or a compatible alternative.
+- **Database**: SQL Server or a compatible alternative (due to time constraints, it is current a file system)
 
 ---
 
